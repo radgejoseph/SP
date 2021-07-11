@@ -14,7 +14,7 @@
 //     "fKjE0CChQb",
 //     "3306");
 $conn = mysqli_connect(
-    "localhost",
+    "databases.000webhost.com",
     "id15170702_speakupusername",
     "-Zbs7E<5N~}{f-Jz",
     "id15170702_speakup",
