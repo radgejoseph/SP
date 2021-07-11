@@ -13,10 +13,16 @@
 //     "fiDmb2Jzyd",
 //     "fKjE0CChQb",
 //     "3306");
+//$conn = mysqli_connect(
+//    "databases.000webhost.com",
+//    "id15170702_speakupusername",
+//    "-Zbs7E<5N~}{f-Jz",
+//    "id15170702_speakup",
+//    "3306");
 $conn = mysqli_connect(
-    "databases.000webhost.com",
-    "id15170702_speakupusername",
-    "-Zbs7E<5N~}{f-Jz",
-    "id15170702_speakup",
+    "db4free.net",
+    "speakupusername",
+    "uczLrDn6FB5_WK8",
+    "speakup",
     "3306");
 ?>
