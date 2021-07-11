@@ -17,6 +17,5 @@ $conn = mysqli_connect(
     "files.000webhost.com",
     "id15170702_speakupusername",
     "-Zbs7E<5N~}{f-Jz",
-    "id15170702_speakup",
-    "21");
+    "id15170702_speakup");
 ?>
