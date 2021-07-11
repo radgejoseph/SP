@@ -1,6 +1,6 @@
 <?php
 
-$conn = mysqli_connect("localhost", "root", "", "speakup");
+//$conn = mysqli_connect("localhost", "root", "", "speakup");
 //$conn = mysqli_connect(
 //    "ec2-52-21-252-142.compute-1.amazonaws.com",
 //    "fytmxcadqxmhxv",
@@ -13,12 +13,12 @@ $conn = mysqli_connect("localhost", "root", "", "speakup");
 //     "fiDmb2Jzyd",
 //     "fKjE0CChQb",
 //     "3306");
-//$conn = mysqli_connect(
-//    "databases.000webhost.com",
-//    "id15170702_speakupusername",
-//    "-Zbs7E<5N~}{f-Jz",
-//    "id15170702_speakup",
-//    "3306");
+$conn = mysqli_connect(
+    "localhost",
+    "id15170702_speakupusername",
+    "-Zbs7E<5N~}{f-Jz",
+    "id15170702_speakup",
+    "3306");
 //$conn = mysqli_connect(
 //    "db4free.net",
 //    "speakupusername",
